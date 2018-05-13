@@ -1,4 +1,4 @@
-#include <directgraph/directgraph.h>
+#include <directgraph.h>
 #include <stdio.h>
 
 #pragma pack (1)
